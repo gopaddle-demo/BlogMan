@@ -1,3 +1,4 @@
 #!/bin/sh
 cd front-end
-npm install --silent
+npm install
+cd ..
